@@ -31,7 +31,7 @@ const workData = [
   {
     img: "img/projects/project-3.png",
     name: "NEURAL CLAIM SYSTEM",
-    format: "slider",
+    format: "img",
     project: "WEBSITE",
     client: "Neuralcs",
     duration: "3 MONTHS",
