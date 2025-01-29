@@ -98,22 +98,22 @@ const Contact = () => {
                 <h6 className="font-weight-600 uppercase">Social Profiles</h6>
                 <ul className="list-inline social social-intro text-center p-none">
                   <li className="facebook">
-                    <a title="GitHub" href="https://github.com/qasimyounas" target="_blank">
+                    <a title="GitHub" href="https://github.com/qasimyounas" target="_blank" rel="noreferrer">
                       <i className="fa fa-github" />
                     </a>
                   </li>
                   <li className="twitter">
-                    <a title="Skype" href="https://join.skype.com/invite/hFguFI6Db7o3" target="_blank">
+                    <a title="Skype" href="https://join.skype.com/invite/hFguFI6Db7o3" target="_blank"  rel="noreferrer">
                       <i className="fa fa-skype" />
                     </a>
                   </li>
                   <li className="youtube">
-                    <a title="Linkedin" href="https://www.linkedin.com/in/muhammad-qasim-6704b0241/" target="_blank">
+                    <a title="Linkedin" href="https://www.linkedin.com/in/muhammad-qasim-6704b0241/" target="_blank"  rel="noreferrer">
                       <i className="fa fa-linkedin" />
                     </a>
                   </li>
                   <li className="dribbble">
-                    <a title="Instagram" href="https://www.instagram.com/its_qureshi____?igsh=bG52Z2s2aWg3Ymk0" target="_blank">
+                    <a title="Instagram" href="https://www.instagram.com/its_qureshi____?igsh=bG52Z2s2aWg3Ymk0" target="_blank"  rel="noreferrer">
                       <i className="fa fa-instagram" />
                     </a>
                   </li>

@@ -21,7 +21,7 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
           </video>
         )}
         {leftImg && (
-          <img
+          <image
             className="leftimagepicture"
             src={`${leftImgSrc ? leftImgSrc : "img/leftimage-dark.jpg"}`}
             alt=""

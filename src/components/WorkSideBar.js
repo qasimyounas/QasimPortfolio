@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import Carousel from "react-bootstrap/Carousel";
 
 export const ImgSideBar = ({ img }) => {
-  return <img src={img} alt="Project Image" />;
+  return <image src={img} alt="Project Image" />;
 };
 
 export const VideoSideBar = ({ playing }) => {
@@ -70,13 +70,13 @@ export const SliderSideBar = () => {
         indicators={false}
       >
         <Carousel.Item className="carousel-item" interval={1000}>
-          <img src="img/projects/project-8.jpg" alt="slide 1" />
+          <image src="img/projects/project-8.jpg" alt="slide 1" />
         </Carousel.Item>
         <Carousel.Item className="carousel-item" interval={1000}>
-          <img src="img/projects/project-7.jpg" alt="slide 2" />
+          <image src="img/projects/project-7.jpg" alt="slide 2" />
         </Carousel.Item>
         <Carousel.Item className="carousel-item" interval={1000}>
-          <img src="img/projects/project-5.jpg" alt="slide 3" />
+          <image src="img/projects/project-5.jpg" alt="slide 3" />
         </Carousel.Item>
       </Carousel>
     </div>

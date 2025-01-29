@@ -134,7 +134,7 @@ const Work = () => {
                         data-type="project-1"
                         onClick={() => setActive(i + 1)}
                       >
-                        <img
+                        <image
                           src={work.img}
                           alt="Project"
                           className="img-fluid"
@@ -237,7 +237,7 @@ const Work = () => {
                     </span>
                   </li> */}
                 </ul>
-                <a href={work.budget} target="_blank" className="btn">
+                <a href={work.budget} target="_blank"  rel="noreferrer" className="btn">
                   <span>
                     <i className="fa fa-external-link" />
                     preview

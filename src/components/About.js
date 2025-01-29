@@ -19,7 +19,7 @@ const About = () => {
           {/* Personal Infos Starts */}
           <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
             <div className="image-container">
-              <img
+              <image
                 className="img-fluid d-block"
                 src="img/dark-about.jpg"
                 alt=""
@@ -263,7 +263,7 @@ const About = () => {
                         20018 - 2022
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Bachelor's in Computer Science
+                        Bachelor&apos;s in Computer Science
                         <span className="separator" />
                         <span className="font-weight-700">
                           <br/> Superior university , Lahore
