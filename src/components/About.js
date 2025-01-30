@@ -93,7 +93,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Email</span>
+                    <span className="font-weight-600">Email </span>
                     qasimyounasqureshi@gmail.com
                   </h6>
                 </li>
