@@ -19,7 +19,7 @@ const About = () => {
           {/* Personal Infos Starts */}
           <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
             <div className="image-container">
-              <image
+              <img
                 className="img-fluid d-block"
                 src="img/dark-about.jpg"
                 alt=""
@@ -61,13 +61,13 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Experience</span>3 years
+                    <span className="font-weight-600">Experience</span>7 years
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Address</span>
-                    AmirTown,Lahore
+                    Amir Town, Lahore, Pakistan.
                   </h6>
                 </li>
               </ul>
@@ -260,7 +260,7 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                         20018 - 2022
+                         2014 - 2018
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                         Bachelor&apos;s in Computer Science
@@ -286,7 +286,7 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2016 - 2018
+                        2012 - 2014
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                         Intermediate in Computer Science (I.CS)
@@ -312,7 +312,7 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2014 - 2016
+                        2010 - 2012
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                           Matriculation

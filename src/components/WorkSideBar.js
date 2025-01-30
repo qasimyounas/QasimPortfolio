@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import Carousel from "react-bootstrap/Carousel";
 
 export const ImgSideBar = ({ img }) => {
-  return <image src={img} alt="Project Image" />;
+  return <img src={img} alt="Project Image" />;
 };
 
 export const VideoSideBar = ({ playing }) => {
