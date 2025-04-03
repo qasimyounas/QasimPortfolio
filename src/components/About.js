@@ -61,7 +61,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Experience</span>7 years
+                    <span className="font-weight-600">Experience</span>3 years
                   </h6>
                 </li>
                 <li>
@@ -146,18 +146,19 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        02/2021 - present
+                        11/2023 - present
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Tech Lead | Principal Software Engineer
+                        Software Engineer
                         <span className="separator" />
                         <span className="font-weight-700">NgXoft Solutions</span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Lead the team, perform technical scoping, and act as the
-                        first point of contact in resolving issues.
+                      Working here as a MEAN stack developer and have experience in working on the latest technology set.<br/>
+                      Hands-on Multi-platforms applications, Large Scale Web Apps, Design systems and deployments. <br/>
+                      Code cleaning, Optimize, and Restructuring apps
                       </p>
                     </div>
                   </div>
@@ -171,73 +172,45 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        12/2019 - 02/2021
+                        08/2022 - 10/2023
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                          Senior Software Engineer
+                          Frontend Developer
+                        <span className="separator" />
+                        <span className="font-weight-700">cyber advance solutions</span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                      Implemented websites, mobile applications, and landing pages from concept through deployment. <br/>
+                      Utilize HTML, CSS, Bootstrap, and JavaScript to create responsive landing pages for the company <br/>
+                      Employed best practices in front-end development, including code splitting, lazy loading, and performance optimization to enhance application speed and responsiveness.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                {/* Item Ends */}
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        02/2022 - 08/2022
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                          Software Engineer Intern
                         <span className="separator" />
                         <span className="font-weight-700">Insignia Business Solutions</span>
                       </span>
                     </div>
                     <div className="card-body">
                       <p>
-                        Designing, developing, and deploying large-scale web, and
-                        mobile applications. 
-                        Build Modules & Libraries, Customize plugins, and their
-                        integration.
-                        Code cleaning, Optimize, and Restructuring apps
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                {/* Item Ends */}
-                {/* Item Starts */}
-                <div className="item">
-                  <span className="bullet" />
-                  <div className="card">
-                    <div className="card-header">
-                      <span className="year">
-                        <i className="fa fa-calendar" />
-                        <i className="fa fa-caret-right" />
-                        08/2018 - 11/2019
-                      </span>
-                      <span className="d-block font-weight-400 uppercase">
-                        Software Engineer / MEAN Stack Developer
-                        <span className="separator" />
-                        <span className="font-weight-700">NgXoft Solutions</span>
-                      </span>
-                    </div>
-                    <div className="card-body">
-                      <p>
-                        Working here as a MEAN stack developer and have
-                        experience in working on the latest technology set.
-                        Hands-on Multi-platforms applications, Large Scale Web
-                        Apps, Design systems and deployments. 
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                {/* Item Ends */}
-                {/* Item Starts */}
-                <div className="item">
-                  <span className="bullet" />
-                  <div className="card">
-                    <div className="card-header">
-                      <span className="year">
-                        <i className="fa fa-calendar" />
-                        <i className="fa fa-caret-right" />
-                        04/2017 - 08/2018
-                      </span>
-                      <span className="d-block font-weight-400 uppercase">
-                        Associate Software Engineer
-                        <span className="separator" />
-                        <span className="font-weight-700">NgXoft Solutions</span>
-                      </span>
-                    </div>
-                    <div className="card-body">
-                      <p>
-                        Hands on, Web Design and development.
-                        Game design using unity
+                      Hands on, Web Design and development. <br/>
+                      Work on cutting-edge technology like React JS with python. <br/>
+                      Worked with cross-functional teams to troubleshoot and resolve issues, ensuring timely project delivery. 
                       </p>
                     </div>
                   </div>
@@ -260,7 +233,7 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                         2014 - 2018
+                         2018 - 2022
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                         Bachelor&apos;s in Computer Science
@@ -286,7 +259,7 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2012 - 2014
+                        2016 - 2018
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                         Intermediate in Computer Science (I.CS)
@@ -312,13 +285,13 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2010 - 2012
+                        2014 - 2016
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                           Matriculation
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Government Public High School 
+                         <br/> Government Public High School 
                         </span>
                       </span>
                     </div>
@@ -385,22 +358,6 @@ const About = () => {
                 />
                 {/* <span className="percent" style={{ right: "calc(40% - 21px)" }}>
                   60%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">Gatsby</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
                   <b className="arrow" />
                 </span> */}
               </div>
@@ -680,22 +637,6 @@ const About = () => {
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">JAM Stack</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Laravel</span>
               <div className="chart-bar">
                 <span
@@ -792,55 +733,7 @@ const About = () => {
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">Redis</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">DenoJS</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Docker</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(10% - 21px)" }}>
-                  90%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">ElasticSearch</span>
               <div className="chart-bar">
                 <span
                   className="item-progress"
@@ -889,22 +782,6 @@ const About = () => {
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Socket.io</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">DARP</span>
               <div className="chart-bar">
                 <span
                   className="item-progress"
