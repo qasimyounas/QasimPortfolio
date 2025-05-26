@@ -33,9 +33,10 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
           <h3>Hi there !</h3>
           <AnimationText />
           <p>
-            {`I'm`} Experienced full-stack developer leading high-performing teams and driving innovative solutions.
-             Proficient in JavaScript ecosystems, including MEAN and MERN stacks, and adept at crafting scalable,
-              efficient, and user-centric web applications.
+            {`I'm`} a UI/UX and frontend developer with a passion for DRY architecture. Skilled in HTML, CSS, Bootstrap,
+            Tailwind, SCSS, JavaScript, jQuery, ReactJS, Angular, and more.
+            Comfortable working across the application layer, I specialize in supporting legacy systems,
+            conducting in-depth analysis, and refining software architecture through refactoring.
           </p>
           <div className="call-to-actions-home">
             <div className="text-left">

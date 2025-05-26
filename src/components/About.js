@@ -26,10 +26,10 @@ const About = () => {
               />
             </div>
             <p className="d-block d-md-none">
-              {`I'm`} a Freelance UI/UX Designer and Developer based in London,
-              England. I strives to build immersive and beautiful web
-              applications through carefully crafted code and user-centric
-              design.
+              {`I'm`} a UI/UX and frontend developer with a passion for DRY architecture. Skilled in HTML, CSS, Bootstrap,
+            Tailwind, SCSS, JavaScript, jQuery, ReactJS, Angular, and more.
+            Comfortable working across the application layer, I specialize in supporting legacy systems,
+            conducting in-depth analysis, and refining software architecture through refactoring.
             </p>
           </div>
           <div className="row col-xl-6 col-lg-6 col-md-12">
@@ -61,7 +61,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Experience</span>3 years
+                    <span className="font-weight-600">Experience</span>2+ years
                   </h6>
                 </li>
                 <li>
@@ -556,7 +556,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">AdonisJS</span>
               <div className="chart-bar">
                 <span
@@ -564,12 +564,12 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
+                <span className="percent" style={{ right: "calc(15% - 21px)" }}>
                   85%
                   <b className="arrow" />
-                </span> */}
+                </span>
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
@@ -588,7 +588,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Strapi</span>
               <div className="chart-bar">
                 <span
@@ -596,12 +596,12 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(10% - 21px)" }}>
+                <span className="percent" style={{ right: "calc(10% - 21px)" }}>
                   90%
                   <b className="arrow" />
-                </span> */}
+                </span>
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
@@ -636,7 +636,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Laravel</span>
               <div className="chart-bar">
                 <span
@@ -644,15 +644,15 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
+                <span className="percent" style={{ right: "calc(15% - 21px)" }}>
                   85%
                   <b className="arrow" />
-                </span> */}
+                </span>
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">GraphQL</span>
               <div className="chart-bar">
                 <span
@@ -660,12 +660,12 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
+                <span className="percent" style={{ right: "calc(15% - 21px)" }}>
                   85%
                   <b className="arrow" />
-                </span> */}
+                </span>
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
@@ -684,7 +684,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Postgresql</span>
               <div className="chart-bar">
                 <span
@@ -692,15 +692,15 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(10% - 21px)" }}>
+                <span className="percent" style={{ right: "calc(10% - 21px)" }}>
                   90%
                   <b className="arrow" />
-                </span> */}
+                </span>
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Firebase</span>
               <div className="chart-bar">
                 <span
@@ -708,44 +708,12 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(40% - 21px)" }}>
+                <span className="percent" style={{ right: "calc(40% - 21px)" }}>
                   60%
                   <b className="arrow" />
-                </span> */}
+                </span>
               </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">MongoDB</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
-            {/* Skill Bar Ends */}
-            {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
-              <span className="skill-text">Docker</span>
-              <div className="chart-bar">
-                <span
-                  className="item-progress"
-                  data-percent={100}
-                  style={{ width: "100%" }}
-                />
-                {/* <span className="percent" style={{ right: "calc(10% - 21px)" }}>
-                  90%
-                  <b className="arrow" />
-                </span> */}
-              </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
@@ -780,7 +748,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Socket.io</span>
               <div className="chart-bar">
                 <span
@@ -788,12 +756,12 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
+                <span className="percent" style={{ right: "calc(15% - 21px)" }}>
                   85%
                   <b className="arrow" />
-                </span> */}
+                </span>
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
           </div>
           {/* Skills Starts */}

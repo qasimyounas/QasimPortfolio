@@ -10,53 +10,53 @@ import {
 const workData = [
   {
     img: "img/projects/project-1.png",
-    name: "Ideawake Project",
+    name: "Networkprop",
     format: "img",
     project: "WEBSITE",
     client: "Ideawake",
     duration: "3 MONTHS",
     technologies: ["Angular, ", "Nodejs, ", "NestJs, ", "MongoDB, ", "Postgresql, ", "AWS Web Services, ", "ElasticSearch, "],
-    budget: "https://ideawake.com/",
+    budget: "https://networkprop.netlify.app/public/",
   },
   {
     img: "img/projects/project-2.png",
-    name: "EVET Market",
+    name: "kodebyte",
     format: "img",
-    project: "WEBSITE , Mobile App",
+    project: "WEBSITE",
     client: "EVET",
     duration: "3 MONTHS",
     technologies: ["ReactJS, ", "React Native, ", "NodeJS, ", "Express, ", "GraphQL, ","MySQL, "],
-    budget: "https://play.google.com/store/apps/details?id=com.evet.market&hl=en&gl=US",
+    budget: "https://kodebyte.netlify.app/",
   },
   {
     img: "img/projects/project-3.png",
-    name: "NEURAL CLAIM SYSTEM",
+    name: "Worldgamecoin",
     format: "img",
     project: "WEBSITE",
     client: "Neuralcs",
     duration: "3 MONTHS",
     technologies: ["ReactJS, ", "NodeJS, ", "Express, ","MySQL, "],
-    budget: "https://www.neuralcs.com/",
+    budget: "https://barooq-wgc.netlify.app/",
   },
   {
     img: "img/projects/project-4.png",
-    name: "Colaraz",
+    name: "segent",
     format: "img",
-    project: "Mobile App",
+    project: "WEBSITE",
     client: "IBS",
     duration: "3 MONTHS",
     technologies: ["Ionic, ", "Angular, ", "SQL, ","DOTNET, "],
-    budget: "https://play.google.com/store/apps/details?id=com.insigniaBiz.colaraz",
+    budget: "https://segent.netlify.app/",
   },
   {
     img: "img/projects/project-5.png",
-    name: "Revbits PAS/UP/PAM",
+    name: "Trading coach",
     format: "img",
-    project: "Desktop, WEBSITE",
+    project: "WEBSITE",
     client: "Revbits",
     duration: "3 MONTHS",
     technologies: ["Angular, ", "Electron, ", "ReactJs, ", "Nodejs, ", "Postgresql, ", "AWS, ", "GCP, ", "Azure, "],
-    budget: "https://www.revbits.com/",
+    budget: "https://trading-coach.netlify.app/",
   },
   // {
   //   img: "img/projects/project-6.jpg",
@@ -190,7 +190,7 @@ const Work = () => {
                       {work.project}
                     </span>
                   </li>
-                  <li>
+                  {/* <li>
                     <i className="fa fa-user-o" />
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -200,7 +200,7 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.client}
                     </span>
-                  </li>
+                  </li> */}
                   {/* <li>
                     <i className="fa fa-hourglass-o" />
                     <span className="font-weight-400 project-label">
@@ -212,7 +212,7 @@ const Work = () => {
                       {work.duration}
                     </span>
                   </li> */}
-                  <li>
+                  {/* <li>
                     <i className="fa fa-code" />{" "}
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -224,7 +224,7 @@ const Work = () => {
                         <Fragment key={i}>{technologie}</Fragment>
                       ))}
                     </span>
-                  </li>
+                  </li> */}
                   {/* <li>
                     <i className="fa fa-money" />{" "}
                     <span className="font-weight-400 project-label">
