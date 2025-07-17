@@ -172,12 +172,12 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        08/2022 - 10/2023
+                        09/2022 - 10/2023
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                           Frontend Developer
                         <span className="separator" />
-                        <span className="font-weight-700">cyber advance solutions</span>
+                        <span className="font-weight-700">NgXoft Solutions</span>
                       </span>
                     </div>
                     <div className="card-body">
@@ -191,7 +191,7 @@ const About = () => {
                 </div>
                 {/* Item Ends */}
                 {/* Item Starts */}
-                <div className="item">
+                {/* <div className="item">
                   <span className="bullet" />
                   <div className="card">
                     <div className="card-header">
@@ -211,6 +211,36 @@ const About = () => {
                       Hands on, Web Design and development. <br/>
                       Work on cutting-edge technology like React JS with python. <br/>
                       Worked with cross-functional teams to troubleshoot and resolve issues, ensuring timely project delivery. 
+                      </p>
+                    </div>
+                  </div>
+                </div> */}
+                {/* Item Ends */}
+              </div>
+              <h2 className="font-weight-600 uppercase title-section mt-4 pt-4">
+              Certification
+              </h2>
+              <div className="resume-items">
+                {/* Item Starts */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        07/2025
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                      Artificial Intelligence Fundamentals
+                        <span className="separator" />
+                        <span className="font-weight-700"> IBM</span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <p>
+                      Complete Artificial Intelligene Fundamentals, a prescribed set of courses, designed by IBM <br></br>
+                      <a href="https://www.credly.com/badges/ae585d25-87cf-4561-94b0-eff6af9761a7/linked_in_profile" target="blank"> Show Credential </a>
                       </p>
                     </div>
                   </div>
@@ -412,7 +442,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Rxjs/NgRx</span>
               <div className="chart-bar">
                 <span
@@ -420,12 +450,8 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(10% - 21px)" }}>
-                  90%
-                  <b className="arrow" />
-                </span> */}
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
@@ -460,7 +486,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Ionic</span>
               <div className="chart-bar">
                 <span
@@ -468,12 +494,8 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(15% - 21px)" }}>
-                  85%
-                  <b className="arrow" />
-                </span> */}
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
@@ -508,7 +530,7 @@ const About = () => {
             </div>
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
-            <div className="col-12 col-sm-6 col-md-2">
+            {/* <div className="col-12 col-sm-6 col-md-2">
               <span className="skill-text">Flutter</span>
               <div className="chart-bar">
                 <span
@@ -516,12 +538,8 @@ const About = () => {
                   data-percent={100}
                   style={{ width: "100%" }}
                 />
-                {/* <span className="percent" style={{ right: "calc(10% - 21px)" }}>
-                  90%
-                  <b className="arrow" />
-                </span> */}
               </div>
-            </div>
+            </div> */}
             {/* Skill Bar Ends */}
             {/* Skill Bar Starts */}
             <div className="col-12 col-sm-6 col-md-2">
