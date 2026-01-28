@@ -67,7 +67,7 @@ const Contact = () => {
                     {" "}
                     <span className="contact-title">Phone</span>
                     <i className="fa fa-whatsapp" />
-                    <span className="contact-content">+923224648461</span>
+                    <span className="contact-content">+1(437)774-9060</span>
                   </h6>
                 </li>
                 <li>

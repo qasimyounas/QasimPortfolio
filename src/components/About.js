@@ -67,7 +67,7 @@ const About = () => {
                 <li>
                   <h6>
                     <span className="font-weight-600">Address</span>
-                    Amir Town, Lahore, Pakistan.
+                    Mississuaga, Canada
                   </h6>
                 </li>
               </ul>
@@ -88,7 +88,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Phone</span>+923224648461
+                    <span className="font-weight-600">Phone</span>+1(437)774-9060
                   </h6>
                 </li>
                 <li>
