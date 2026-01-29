@@ -88,7 +88,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Phone</span>+1(437)505-1127
+                    <span className="font-weight-600">Phone</span>+1(437) 505-1127
                   </h6>
                 </li>
                 <li>
